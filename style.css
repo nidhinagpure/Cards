@@ -1,0 +1,51 @@
+.cards{
+    background-color: rgba(106, 97, 98, 0.263);
+    width: 200px;
+    padding: 10px 5px;
+    border-radius: 10px;
+    margin-top: 20px;  
+    border: dotted;
+    border-radius: 30px; 
+
+
+}
+
+    .card-container{ 
+        display: flex;
+        justify-content: space-around; 
+}
+        
+.image{
+    width: 100 px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 10;
+}
+
+.text{
+    text-align: center;
+    color: black;
+}
+
+.mainheading {
+    text-align: center;
+    height: 50px;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-background {
+    color: chocolate;
+    background-color: burlywood;
+    padding:5px;
+}
+.button{
+    border-radius: 50px;
+    border-top: 20px;
+    width: 70px;
+    color: black;
+    background-color: burlywood;
+    size: 40px;
+    border: double;
+
+}
