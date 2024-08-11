@@ -6,34 +6,27 @@
     margin-top: 20px;  
     border: dotted;
     border-radius: 30px; 
-
-
 }
-
-    .card-container{ 
-        display: flex;
-        justify-content: space-around; 
+.card-container{
+    display: flex;
+    justify-content:space-around; 
 }
-        
 .image{
     width: 100 px;
     display: block;
     margin: 10px auto;
     border-radius: 10;
 }
-
 .text{
     text-align: center;
     color: black;
 }
-
 .mainheading {
     text-align: center;
     height: 50px;
     font-size: 50px;
     font-family: 'Courier New', Courier, monospace;
 }
-
 .text-background {
     color: chocolate;
     background-color: burlywood;
@@ -47,5 +40,4 @@
     background-color: burlywood;
     size: 40px;
     border: double;
-
 }
